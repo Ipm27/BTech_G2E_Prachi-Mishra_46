@@ -1,0 +1,9 @@
+# include <studio.h>
+int main()
+{int X,y,z,
+printf("enter two number to add\n")
+scanf("%d%d",&x,&x,&y);
+       z=x+y;
+printf("sum of x and y is %d",z);
+return 0;
+}
